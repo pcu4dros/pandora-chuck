@@ -1,2 +1,2 @@
 # pandora-chuck
-Example app vue and consume API
+Example vue.js app with chuck Norris quotes API
